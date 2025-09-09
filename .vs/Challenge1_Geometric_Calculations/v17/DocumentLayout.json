@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL 2025 Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\",
+  "WorkspaceRootPath": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL (2025) Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1164050-C83D-431B-9EF0-86F50743ECBE}|Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations.vcxproj|C:\\Users\\laiza\\OneDrive\\Desktop\\FALL 2025 Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1164050-C83D-431B-9EF0-86F50743ECBE}|Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations.vcxproj|solutionrelative:Challenge1_Geometric_Calculations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\OneDrive\\Desktop\\FALL (2025) Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Challenge1_Geometric_Calculations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\OneDrive\\Desktop\\FALL (2025) Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL (2025) Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL (2025) Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-09T04:56:46.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL 2025 Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL (2025) Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations\\main.cpp",
               "RelativeDocumentMoniker": "Challenge1_Geometric_Calculations\\main.cpp",
-              "ToolTip": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL 2025 Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations\\main.cpp",
+              "ToolTip": "C:\\Users\\laiza\\OneDrive\\Desktop\\FALL (2025) Classes Files\\CSCI 272 - FALL 25\\Challenge1_Geometric_Calculations\\Challenge1_Geometric_Calculations\\main.cpp",
               "RelativeToolTip": "Challenge1_Geometric_Calculations\\main.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAvwHIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-01T22:25:34.676Z",
               "EditorCaption": ""
